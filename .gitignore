@@ -1,0 +1,7 @@
+# Python
+host/venv/
+__pycache__/
+*.pyc
+
+# PlatformIO
+firmware/.pio/
